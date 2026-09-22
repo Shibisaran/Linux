@@ -42,7 +42,7 @@ Linux/
 The repository currently contains practical script examples and screenshots demonstrating Linux administration tasks.
 
 ## 🔐 Topics Covered
-
+               
 ### 1. Linux File Permissions
 
 Understanding and managing:
